@@ -5,7 +5,6 @@
 - 🪴 I'm an 18-year-old software nerd.
 - 🇺🇸 Currently based in Miami, Florida.
 - 🤓 Applied mathematics (statistics) major.
-- 🏳️‍🌈 I'm a cisgender guy. Pronouns are he/him.
 - ✨ Interested in data science and AI!
 
 **What I currently do**
