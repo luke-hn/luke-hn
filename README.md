@@ -17,4 +17,4 @@
 
 **Reach out**
 
-- 📫 You can e-mail me anytime at [me.lukey.tech](mailto:me@lukey.tech).
+- 📫 You can e-mail me anytime at [me@lukey.tech](mailto:me@lukey.tech).
