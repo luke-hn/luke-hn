@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋 Hey! I'm Luke.
 
-<!--
-**lukehahn/lukehahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Some info about me**
 
-Here are some ideas to get you started:
+- 🪴 I'm an 18-year-old software nerd.
+- 🇺🇸 Currently based in Miami, Florida.
+- 🤓 Applied mathematics (statistics) major.
+- 🏳️‍🌈 I'm a cisgender guy. Pronouns are he/him.
+- ✨ Interested in data science and AI!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I currently do**
+
+- 🕸️ I occasionally work on making websites.
+- 📱 I design and develop apps for iOS and Android.
+- 🐕‍🦺 I also design backend services (mainly REST APIs) in Rust or on the JVM.
+- 🌱 I'm a stats guy, so I like aggregating and visualizing data!
+
+**Reach out**
+
+- 📫 You can e-mail me anytime at [me.lukey.tech](mailto:me@lukey.tech).
